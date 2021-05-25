@@ -2,7 +2,6 @@
 # userdirectory
 
 
-
 [Heroku](https://serene-meadow-45449.herokuapp.com/)
 [GitHub](https://github.com/N-Person/userdirectory)
 
