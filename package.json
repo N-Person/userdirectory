@@ -1,0 +1,19 @@
+{
+  "name": "userdirectory",
+  "version": "1.0.0",
+  "description": "Overview\r For this assignment, you'll create a employee directory with React. This assignment will require you to break up your application's UI into components, manage component state, and respond to user events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-Person/userdirectory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-Person/userdirectory/issues"
+  },
+  "homepage": "https://github.com/N-Person/userdirectory#readme"
+}
